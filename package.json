@@ -1,0 +1,22 @@
+{
+  "name": "IntelliArts-test",
+  "version": "1.0.0",
+  "description": "Console application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "MongoDB"
+  ],
+  "author": "Yosyp Khemych",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "fixer-io-node": "^1.0.2",
+    "inquirer": "^6.3.1",
+    "mongoose": "^5.5.10",
+    "request": "^2.81.0"
+  }
+}
