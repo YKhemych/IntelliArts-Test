@@ -9,3 +9,4 @@ List of commands:
 	node commands.js all                                                     All products;
 	node commands.js clear <date>                                            Delete all products by date;
 	node commands.js report <year> <currency>                                Report by year;
+	
