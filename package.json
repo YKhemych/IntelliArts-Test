@@ -16,7 +16,7 @@
     "commander": "^2.20.0",
     "fixer-io-node": "^1.0.2",
     "inquirer": "^6.3.1",
-    "mongoose": "^5.5.10",
+    "mongoose": "^5.7.5",
     "request": "^2.81.0"
   }
 }
